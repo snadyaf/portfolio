@@ -1,0 +1,11 @@
+Nome: Snadyaf
+Profissão: Desenvolvedora Front-end em formação
+Formação: ADS / Fullstack
+Tecnologias: JavaScript, React, Tailwind, Node.js, Express
+
+Resumo:
+Sou estudante de ADS com foco em desenvolvimento web moderno. Crio interfaces acessíveis, sistemas fullstack e automações funcionais que resolvem problemas reais.
+
+Contato:
+Email: seu@email.com
+Portfólio: snadyaf.dev

@@ -1,0 +1,12 @@
+{
+  "name": "snadyaf-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "cypress": "^12.16.0"
+  },
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  }
+}

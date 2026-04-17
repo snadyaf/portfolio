@@ -1,0 +1,7 @@
+[
+  { "id": 1, "status": "processado", "duration": 120 },
+  { "id": 2, "status": "pendente", "duration": 60 },
+  { "id": 3, "status": "processado", "duration": 180 },
+  { "id": 4, "status": "falha", "duration": 45 },
+  { "id": 5, "status": "processado", "duration": 150 }
+]
